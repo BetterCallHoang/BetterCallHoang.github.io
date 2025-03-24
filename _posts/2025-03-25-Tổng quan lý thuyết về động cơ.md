@@ -1,3 +1,18 @@
+---
+layout: post
+title: "#1 Tổng quan lý thuyết về động cơ"
+date: 2025-03-25
+---
+
+
+
+<script type="text/javascript" async
+  src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js"></script>
+
+
+
 # #1 Tổng quan lý thuyết về động cơ
 
 Table of Contents:
