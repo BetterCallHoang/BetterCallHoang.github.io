@@ -6,14 +6,22 @@ date: 2025-03-25
 
 
 
+<script type="text/javascript">
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],  // Enable $...$ and \( ... \)
+      displayMath: [['$$', '$$'], ['\\[', '\\]']] // Enable $$...$$ and \[ ... \]
+    },
+    svg: {
+      fontCache: 'global'
+    }
+  };
+</script>
 <script type="text/javascript" async
   src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js"></script>
 
-
-
-# #1 Tổng quan lý thuyết về động cơ
 
 Table of Contents:
 
@@ -21,7 +29,7 @@ Table of Contents:
 
 This series intends to be my notes about fundamental of knowledges for BLDC motor control as well as a chance to improve my English writing skill.
 
-In this series, I want to go from the fundamental theory in physics to the “how do the BLDC work and how to control it?”. Let’s begin
+In this series, I want to go from the fundamental theory in physics to the “how do the BLDC work and how to control it?”. Let’s begin!
 
 ---
 
@@ -41,7 +49,7 @@ $$
 
 with $w$  is the numbers of the winding, $\phi$  is the flux through a wire, $\Psi$  is the sum of the flux through the winding.
 
-![image.png](assets/Tong-quan-ly-thuyet-ve-dong-co/image.png)
+![image.png](/assets/Tong-quan-ly-thuyet-ve-dong-co/image.png)
 
 *Figure 1: The Right hand rule.* 
 
@@ -55,7 +63,7 @@ $$
 
 with B is flux destiny (T), $l$ is the length of the conductor (m), $v$  is the velocity of the conductor (m/s).
 
-![image.png](assets/Tong-quan-ly-thuyet-ve-dong-co/image%201.png)
+![image.png](/assets/Tong-quan-ly-thuyet-ve-dong-co/image%201.png)
 
 Figure 2: When the conductor moves in the magnetic field.
 
@@ -69,7 +77,7 @@ $$
 
 with $i$  is the current flows in the conductor, $l$  is the length of the conductor.
 
-![image.png](assets/Tong-quan-ly-thuyet-ve-dong-co/image%202.png)
+![image.png](/assets/Tong-quan-ly-thuyet-ve-dong-co/image%202.png)
 
 Figure 3: The electromagnetic force can be determined based on Left hand rule.
 
@@ -83,7 +91,7 @@ $$
 
 with H: Flux intensity [A/m], F: magnetomotive force (mmf) [A.turns].
 
-![image.png](assets/Tong-quan-ly-thuyet-ve-dong-co/image%203.png)
+![image.png](/assets/Tong-quan-ly-thuyet-ve-dong-co/image%203.png)
 
 *Figure 4: The law of total current visualization.*
 
