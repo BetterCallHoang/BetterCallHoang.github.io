@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#1 Tổng quan lý thuyết về động cơ"
+title: "[#1 BLDC] Fundamental theories for motor"
 date: 2025-03-25
 ---
 
@@ -23,8 +23,8 @@ date: 2025-03-25
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js"></script>
 
 
-Table of Contents:
-
+* Table of Contents:
+{:toc}
 ---
 
 This series intends to be my notes about fundamental of knowledges for BLDC motor control as well as a chance to improve my English writing skill.
