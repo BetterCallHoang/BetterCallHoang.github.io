@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BLDC Chapter 1: Fundamental theories for motor"
+title: "BLDC Chapter 1: Fundamental Theories for Motors"
 date: 2025-03-25
 ---
 
