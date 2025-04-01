@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A way to improve the start-up time for Matlab"
+title: "A method to improve the start-up time for Matlab"
 date: 2025-03-25
 ---
 
