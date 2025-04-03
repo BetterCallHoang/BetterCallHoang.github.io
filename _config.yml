@@ -34,7 +34,8 @@ plugins:
 kramdown:
   toc_levels: 1..6   # Allows headers from H1 to H6 in ToC
   parse_block_html: true
-  
+  math_engine: mathjax
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

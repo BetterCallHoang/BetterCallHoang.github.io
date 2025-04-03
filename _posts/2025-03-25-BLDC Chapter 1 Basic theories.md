@@ -1,28 +1,14 @@
 ---
 layout: post
-title: "BLDC Chapter 1: Fundamental Theories for Motors"
+title: "[BLDC Chapter 1] Fundamental Theories for Motors"
 date: 2025-03-25
+author: "Hoang Nguyen"
+categories: [Tech]
+tags: [BLDC]
 ---
 
 
-
-<script type="text/javascript">
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],  // Enable $...$ and \( ... \)
-      displayMath: [['$$', '$$'], ['\\[', '\\]']] // Enable $$...$$ and \[ ... \]
-    },
-    svg: {
-      fontCache: 'global'
-    }
-  };
-</script>
-<script type="text/javascript" async
-  src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js"></script>
-
-
+Table of Contents:
 * Table of Contents:
 {:toc}
 ---
