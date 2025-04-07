@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[Stuff Worth Sharing #1] How to solder SMD components"
+title: "[SWS #1] How to solder SMD components"
 date: 2025-04-07
 author: "Hoang Nguyen"
 categories: [Tech]
 tags: [Sharing]
 ---
-
+SWS stands for "Stuff Worth Sharing!".
 This series is intended to share the interesting and useful stuff I’ve collected from the internet.
 
 ---
