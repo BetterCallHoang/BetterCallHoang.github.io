@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Worth Sharing #1] How to solder SMD components"
+title: "[Stuff Worth Sharing #1] How to solder SMD components"
 date: 2025-04-07
 author: "Hoang Nguyen"
 categories: [Tech]
