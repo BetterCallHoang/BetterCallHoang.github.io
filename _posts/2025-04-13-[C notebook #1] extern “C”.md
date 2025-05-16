@@ -7,6 +7,8 @@ categories: [Tech]
 tags: [C notebook]
 ---
 
+
+
 This series is intended to be my notebook about the C language concepts that I misunderstand.
 
 ---
