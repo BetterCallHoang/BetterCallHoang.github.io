@@ -36,8 +36,6 @@ int main() {
 
 1. When a static variable is declared in a module (or a file) but in outside of all the functions, all the functions of that module will be able to access that variable. But other modules cannot access that variable:
 
-Note: When decleare a static variable in this situation, no need to `static`  keyword (or this variable are default in static).
-
 ```c
 //main.c
 #include <stdio.h>
