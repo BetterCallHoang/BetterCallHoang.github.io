@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Prepare for Interview #1] static, volitate, const keyword"
+title: "[Note C] static, volitate, const keyword"
 date: 2025-05-16
 author: "Hoang Nguyen"
 categories: [Tech]
