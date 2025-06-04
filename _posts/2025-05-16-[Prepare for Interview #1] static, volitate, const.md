@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Note C] static, volitate, const keyword"
+title: "[C Note] static, volitate, const keyword"
 date: 2025-05-16
 author: "Hoang Nguyen"
 categories: [Tech]
