@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[C Notebook] extern \"C\""
+title: "[C Note] extern \"C\""
 date: 2025-04-13
 author: "Hoang Nguyen"
 categories: [Tech]
