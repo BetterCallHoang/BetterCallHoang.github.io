@@ -9,6 +9,7 @@ tags: [Interview]
 Hahaha. Finally, I have finished my final graduation thesis! It was a long journey with a lot of stories from my 4 year journey at HUST. There are so many memories and emotions. I both feel free and feel empty by now.
 
 Anyway, this is my handnote for some collected questions about control system, motor control I asked myself. Some of them are a bit silly, but they helped me have a deeper understand about certain problems. I think looking in the system and having self-questioning is a good way to improve the critical thinking skill, which are very important in both learning and working.  
+
 ---
 Table of contents:
  1. Ld is the direct inductance aligned with the magnetic field of the permanent magnet, while Lq is perpendicular to Ld. How can we detect the d and q vectors when a motor has more than one permanent magnet?
